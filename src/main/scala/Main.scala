@@ -28,10 +28,11 @@ object Main extends App {
   //Load csproj files
   def foo = enumerateAllFiles(new File("D:\\sd\\ConvertDllReference"), IsCSProj)
     //Parse xml files
-    .map(file => (file, XML.loadFile(file)))
+    .map(file => (file.getAbsolutePath, file.getName,XML.loadFile(file)))
     //Locate dll references
+    //Gets file path (For linking), project guid, And reference tags (To remove them?)
     .map({
-      case (file, xml) => (file.getAbsolutePath, (xml \ "PropertyGroup" \ "ProjectGuid").text,  (xml \ "ItemGroup" \ "Reference" ).map(tag => tag \@ "Include"))
+      case (path, name, xml) => (path, name, (xml \ "PropertyGroup" \ "ProjectGuid").text, (xml \ "ItemGroup" \ "Reference" ))
     })
 
   //Correlate to csproj (in list)
