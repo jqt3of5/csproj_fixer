@@ -1,0 +1,5 @@
+D:\sd\ConvertDllReference\bin\Debug\ClassLibrary2.dll
+D:\sd\ConvertDllReference\bin\Debug\ClassLibrary2.pdb
+D:\sd\ConvertDllReference\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+D:\sd\ConvertDllReference\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\sd\ConvertDllReference\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

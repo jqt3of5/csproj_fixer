@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Csd_005CConvertDllReference_005Cbin_005CDebug_005CClassLibrary1_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Csd_005CConvertDllReference_005Cbin_005CDebug_005CClassLibrary2_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Csd_005CConvertDllReference_005Cbin_005CDebug_005CClassLibrary2_002Epdb/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Csd_005CConvertDllReference_005Cbin_005CDebug_005CClassLibrary3_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005Csd_005CConvertDllReference_005Cbin_005CDebug_005CClassLibrary4_002Edll/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

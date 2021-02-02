@@ -1,0 +1,5 @@
+D:\sd\ConvertDllReference\bin\Debug\ConvertDllReference.exe
+D:\sd\ConvertDllReference\bin\Debug\ConvertDllReference.pdb
+D:\sd\ConvertDllReference\ConvertDllReference\obj\Debug\ConvertDllReference.csprojAssemblyReference.cache
+D:\sd\ConvertDllReference\ConvertDllReference\obj\Debug\ConvertDllReference.exe
+D:\sd\ConvertDllReference\ConvertDllReference\obj\Debug\ConvertDllReference.pdb
